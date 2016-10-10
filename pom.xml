@@ -4,16 +4,16 @@
     <!-- POM file generated with GWT webAppCreator -->
     <modelVersion>4.0.0</modelVersion>
 
-    <version>1.0.0-b2-SNAPSHOT</version>
+    <version>1.0.0-b2.kirona</version>
     <groupId>org.peimari</groupId>
     <artifactId>g-leaflet-editable</artifactId>
     <packaging>jar</packaging>
     <name>g-leaflet-editable</name>
         
     <scm>
-        <url>git://github.com/mstahv/g-leaflet-editable.git</url>
-        <connection>scm:git:git://github.com/mstahv/g-leaflet-editable.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:/mstahv/g-leaflet-editable.git</developerConnection>
+        <url>git://github.com/kironapublic/g-leaflet-editable.git</url>
+        <connection>scm:git:git://github.com/kironapublic/g-leaflet-editable.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:/kironapublic/g-leaflet-editable.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
 
@@ -21,7 +21,7 @@
         <dependency>
             <groupId>org.peimari</groupId>
             <artifactId>g-leaflet</artifactId>
-            <version>1.0.0-b1</version>
+            <version>1.0.0-rc3.kirona</version>
         </dependency>
         <dependency>
             <groupId>com.google.gwt</groupId>
